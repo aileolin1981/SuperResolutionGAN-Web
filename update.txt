@@ -1,0 +1,8 @@
+20190917
+first version
+
+20190921
+width 512 to 768
+
+20191123
+add photo choices
